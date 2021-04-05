@@ -9,7 +9,7 @@ C++ Semi-Infinite Turing Machine with non-stationary moviment.
 $ make
 ```
 
-## --Tests--
+# Tests:
 In the "*in*" file:
 * The **first line** represents the **input string**.
 * The **other lines** represent the **movements**.
